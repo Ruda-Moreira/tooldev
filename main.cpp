@@ -8,7 +8,7 @@ int main(int argc, char *argv[])
     MainWindow w;
     w.setWindowTitle("AI Tool OF3ver.0.01");
 
-    w.show();
+    w.show();//test
 
     return a.exec();
 }
